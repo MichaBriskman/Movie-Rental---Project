@@ -4,7 +4,7 @@
 * Name: Micha Briskman
 
 ## Technologies
-* Client side - React
+* Client side - React, Node.js
 * Server side - Java, Spring 
 * Data Base - SQL
 
