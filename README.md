@@ -3,13 +3,15 @@
 # Authors
 * Name: Micha Briskman
 
-## Technologies
-* Client side - React, Node.js
+# Technologies
+* Client side - React, Node.js, IMDB API
 * Server side - Java, Spring
 * Server - Tomcat 9.0.73 
 * Data Base - SQL
 
-# Explanations
+# About
+This project is a Movie rental store. </br>
+The first page of site lets you choose a movie. </br>
 * The search allows using a search string, by genre (select multi option), by release date (select option) 
 * and by genre and release date combined.
 * The primary search is by the query string, so if searched by the query string and by something else the search will be
