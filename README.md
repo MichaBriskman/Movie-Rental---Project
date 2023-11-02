@@ -5,7 +5,8 @@
 
 ## Technologies
 * Client side - React, Node.js
-* Server side - Java, Spring 
+* Server side - Java, Spring
+* Server - Tomcat 9.0.73 
 * Data Base - SQL
 
 # Explanations
